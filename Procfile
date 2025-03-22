@@ -1,1 +1,1 @@
-web: mpm start
+web: serve -s build
